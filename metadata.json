@@ -1,0 +1,5 @@
+{
+  "name": "3D Storybook Flipbook",
+  "description": "A visually appealing 3D flipbook that displays the story of 'The Little Mermaid' with page-turning effects, using content from an example storybook website.",
+  "requestFramePermissions": []
+}
